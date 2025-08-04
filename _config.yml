@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "柴维尔的个人主页"
-description              : "每天都在网上寻宝的大龄学生"
+description              : "每天都在网上寻宝的大龄学生，豆瓣网忠实用户"
 repository               : "PrideWood/pridewood.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wesley (柴维尔)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Shaanxi Normal University"
   location         : "Xi'an, Shaanxi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "cbq@dacnote.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
