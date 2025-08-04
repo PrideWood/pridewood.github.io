@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 你好，我是维尔，一名教育硕士在读生，现就读于陕西师范大学。本科毕业于陕西科技大学电子科学与技术专业，我致力于将工程背景与教育理念相结合，探索技术赋能教学的实践路径。
+
 我对语言学习、教育技术、吃喝玩乐以及数字笔记系统充满热情，正在基于 [Quartz](https://quartz.jzhao.xyz/) 建设一个数字花园，记录我在语言、教育、编程与写作中的成长轨迹。
+
 我是豆瓣的重度使用者，也会在 B 站偶尔分享学习相关的视频内容，希望把思考变成可以和他人交流的作品。
 
 # 🔥 News
@@ -27,12 +29,8 @@ redirect_from:
 
 # 📝 What I'm Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Statistics</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[统计分析与 SPSS 的应用](https://space.bilibili.com/630304558/lists/722799?type=series)
-
-主讲老师：**何晓琦**
+- [统计分析与 SPSS 的应用](https://space.bilibili.com/630304558/lists/722799?type=series)
+- 德语
 
 # 🎖 Achievements
 - *2025.07* 第一次尝试做大盘鸡，色香味俱全
