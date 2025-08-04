@@ -6,17 +6,17 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "What I’m Learning"
+    url: "/#-what-i’m-learning"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Achievements"
+    url: "/#-achievements"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Unexpected Trips"
+    url: "/#-unexpected-trips"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Work Experience"
+    url: "/#-work-experience"
