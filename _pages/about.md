@@ -27,7 +27,7 @@ redirect_from:
 - *2025.08*: &nbsp;🎉🎉 更新笔记网站 [dcbj.online](https://dcbj.online/)
 - *2025.08*: &nbsp;🎉🎉 设置个人学术主页（在线简历）[柴维尔-Homepage](https://pridewood.github.io/)
 
-# 📝 What I'm Learning
+# 📝 Currently Learning
 
 - [统计分析与 SPSS 的应用](https://space.bilibili.com/630304558/lists/722799?type=series)
 - [Learn German free online](https://learngerman.dw.com/en/learn-german/s-9528)
