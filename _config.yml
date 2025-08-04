@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "柴维尔的个人主页"
+title                    : "柴维尔"
 description              : "每天都在网上寻宝的大龄学生，豆瓣网忠实用户"
 repository               : "PrideWood/pridewood.github.io"
 google_scholar_stats_use_cdn : true
