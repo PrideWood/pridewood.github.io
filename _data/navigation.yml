@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "What I’m Learning"
-    url: "/#-what-i’m-learning"
+  - title: "What I'm Learning"
+    url: "/#-what-i'm-learning"
 
   - title: "Achievements"
     url: "/#-achievements"
