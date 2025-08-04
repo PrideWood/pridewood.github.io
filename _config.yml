@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wesley (柴维尔)"
+  name             : "柴维尔"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shaanxi Normal University"
-  location         : "Xi'an, Shaanxi, China"
+  bio              : "陕西师范大学"
+  location         : "中国，陕西，西安"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
